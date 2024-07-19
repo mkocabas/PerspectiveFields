@@ -162,4 +162,3 @@ cy: 0.00""")
 
 print("Alternatively, inference a batch of images")
 predictions = pf_model.inference_batch(img_bgr_list=[img_bgr, img_bgr, img_bgr])
-breakpoint()
