@@ -1,4 +1,4 @@
-dependencies = ['torch', 'torchvision', 'pyequilib==0.3.0']
+dependencies = ['torch', 'torchvision']
 
 from perspective2d import PerspectiveFields
 
